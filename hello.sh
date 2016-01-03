@@ -1,5 +1,5 @@
 #!/bin/bash
 # declare STRING variable
-STRING="Hello Stratosphere!!!"
+STRING="Hello World!!!"
 #print variable on a screen
 echo $STRING
